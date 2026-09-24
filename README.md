@@ -65,8 +65,8 @@ using location and city search.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [(https://www.linkedin.com/in/vedant-thakare-fullstackdev/)]
-- Portfolio: [(https://vedantportfoli.netlify.app/)]
+- LinkedIn: [https://www.linkedin.com/in/vedant-thakare-fullstackdev/]
+- Portfolio: [https://vedantportfoli.netlify.app/]
 - Email: [thakarevedant24@gmail.com]
 
 
